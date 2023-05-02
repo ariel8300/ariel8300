@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Ariel Yosupov
-- 👀 I’m interested in all topics of tech
+- 👀 I like my repositories Private
+- 🥇 I do all kinds of things
 - 🌱 I’m currently working with Angular
 - 💞️ I’m looking to contribute to open-source projects in my free time
 - 📫 How to reach me: 
