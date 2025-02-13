@@ -3,7 +3,7 @@
   <h1>Welcome to my profile</h1>
   <h2 align="center">About Me</h2>
   
-  I am a developer, a pentester, and I love to sleep
+  I am a developer, a pentester, and I love to solve l33tc0d3
   
   <!-- STATS CARD -->
   <picture>
